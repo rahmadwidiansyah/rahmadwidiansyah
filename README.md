@@ -104,7 +104,6 @@ Current areas of development:
 
 [![Rahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahmadwidiansyah&theme=github-compact)](https://github.com/rahmadwidiansyah)
 
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
