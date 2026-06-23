@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Rahmad%20Widiansyah&fontAlign=50&fontAlignY=40&color=gradient" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Rahmad Widiansyah</h1>
 
 <p align="center">
@@ -69,7 +65,3 @@
 [![Portfolio](https://img.shields.io/badge/Website-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://widihhh.my.id)
 
 <br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient" />
-</p>
