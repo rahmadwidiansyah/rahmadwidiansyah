@@ -61,9 +61,8 @@ Current areas of development:
 
 ### DevOps, Linux & Self-Hosting
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793d1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CasaOS](https://img.shields.io/badge/CasaOS-4D7CFE?style=for-the-badge)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -87,7 +86,7 @@ Current areas of development:
 
 *   **Self-Hosted Infrastructure Lab**
     *   **Description:** A self-hosted production environment and collection of web utilities.
-    *   **Tech Stack:** Docker, CasaOS, Jellyfin, Cloudflare.
+    *   **Tech Stack:** Docker, Debian, Cloudflare.
     *   **Impact:** Delivers centralized, self-managed web tools and automated media routing, completely independent of third-party PaaS constraints.
 
 ## 📈 GitHub Stats
@@ -121,14 +120,14 @@ Current areas of development:
 ## 🔧 Beyond Development
 
 *   I daily drive Arch Linux and manage systems through the command line.
-*   I self-host most of my personal services using Docker and CasaOS.
+*   I self-host most of my personal services using Docker and Debian.
 *   I enjoy exploring Linux systems and server automation.
 *   I frequently experiment with workflow automation using n8n.
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmadwidiansyah05@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://widihhh.my.id)
 
 <br/>
